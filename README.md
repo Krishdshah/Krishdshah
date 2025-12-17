@@ -73,15 +73,6 @@ I care about:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishdshah&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishdshah&theme=dark" height="160"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/thekrishdshah  
