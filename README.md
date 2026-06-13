@@ -1,87 +1,382 @@
-# Hi, I'm Krish D Shah 👋
+# Hi there 👋, I'm Krish D Shah
 
-🎯 **AI / Machine Learning Engineer in the making**  
-💻 Focused on **Python, ML, and full-stack development**  
-🌱 Actively contributing to **open source** and building a **strong portfolio**
+<div align="center">
+
+# Software Engineer • Machine Learning Engineer • Full Stack Developer
+
+### Building scalable software, intelligent systems, and AI-powered products
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;Machine+Learning+Engineer;MERN+Stack+Developer;AI+Engineer;Open+Source+Contributor;Always+Building+Something+New" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning**, with hands-on experience in **data science, ML model development, and end-to-end application building**.
+I'm a Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning**, passionate about building impactful products at the intersection of:
 
-I care about:
-- Solving **real problems**, not just demos
-- Writing **clean, maintainable code**
-- Building systems where **AI meets users**
+* 🌐 Software Engineering
+* 💻 Full Stack Development (MERN)
+* 🤖 Machine Learning
+* 🧠 Generative AI
+* ⚡ AI Agents & Automation
+* 📱 Mobile Development
 
----
+Currently pursuing:
 
-## 🧠 Tech Stack
+🎓 **B.Tech CSE (AI & ML)** @ SRM Institute of Science and Technology
 
-### 🔹 Programming & Core
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+🎓 **B.Sc Data Science & Applications** @ IIT Madras
 
----
-
-### 🔹 Machine Learning & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
+I enjoy building everything from scalable web applications to intelligent AI systems.
 
 ---
 
-### 🔹 Frontend & App Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+## 🎯 Current Focus
+
+* Machine Learning Engineering
+* Full Stack Development (MERN)
+* AI Agents
+* Retrieval-Augmented Generation (RAG)
+* Open Source Contributions
+* System Design
+* MLOps
+* Research & Innovation
 
 ---
 
-### 🔹 Backend, Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,dart" />
+</p>
 
 ---
 
-### 🔹 Design & Hardware
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+**Frontend Skills**
+
+* Responsive UI Development
+* Component Architecture
+* State Management
+* REST API Integration
+* Performance Optimization
 
 ---
 
-## 📌 What I'm Building
+### Backend Development
 
-- 📊 Applied ML & Data Science projects  
-- 🧪 End-to-end ML pipelines  
-- 🌍 Open-source contributions  
-- 🧱 AI-powered web & mobile applications  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-🔗 Portfolio: **[thekrishdshah.vercel.app](https://thekrishdshah.vercel.app/)**
+**Backend Skills**
+
+* REST APIs
+* Authentication & Authorization
+* Middleware Development
+* Database Integration
+* API Design
+* Backend Architecture
+
+---
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/thekrishdshah  
-- 📧 Email: thekrishdshahbhs@gmail.com  
+### Machine Learning
 
-Open to:
-- ML / AI internships  
-- Open-source collaboration  
-- Serious technical discussions  
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+**Libraries & Frameworks**
+
+* NumPy
+* Pandas
+* Scikit-Learn
+* PyTorch
+* TensorFlow
+* Matplotlib
+* Seaborn
+* LightGBM
+* XGBoost
+* OpenCV
 
 ---
-⭐ Star repositories you find useful — it actually helps.
+
+### AI Engineering
+
+* Large Language Models (LLMs)
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Multi-Agent Systems
+* LangChain
+* LangGraph
+* LlamaIndex
+* Hugging Face
+* Vector Databases
+
+---
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,postman,vscode" />
+</p>
+
+---
+
+### Cloud & Deployment
+
+* Vercel
+* Netlify
+* GitHub Actions
+* Docker (Learning)
+* CI/CD
+
+---
+## WHAT I BUILD👇
+
+## 🧠 End-to-End ML Pipeline
+
+Production-grade machine learning workflow covering:
+
+* Data Processing
+* Feature Engineering
+* Model Training
+* Evaluation
+* Deployment
+
+**Tech Stack**
+
+```text
+Python • Scikit-Learn • LightGBM • XGBoost
+```
+
+---
+
+## 🌐 MERN SaaS Platform
+
+A full-stack web application built using modern software engineering principles.
+
+### Features
+
+* Authentication
+* Dashboards
+* REST APIs
+* Database Integration
+* Responsive UI
+
+**Tech Stack**
+
+```text
+MongoDB • Express • React • Node.js
+```
+
+---
+
+## 🤖 AI Agent Ecosystem
+
+Multi-agent architecture capable of:
+
+* Planning
+* Tool Calling
+* Memory Management
+* Workflow Automation
+
+**Tech Stack**
+
+```text
+Python • LangGraph • OpenAI APIs
+```
+
+---
+
+## 📊 Data Science & Analytics Project
+
+Data-driven solution involving:
+
+* EDA
+* Feature Engineering
+* Predictive Modeling
+* Visualization
+
+**Tech Stack**
+
+```text
+Python • Pandas • Scikit-Learn • Matplotlib
+```
+
+---
+
+# 📚 Research & Innovation
+
+Current areas of exploration:
+
+* Large Language Models
+* AI Agents
+* Multi-Agent Systems
+* Generative AI
+* Machine Learning
+* Deep Learning
+* Retrieval-Augmented Generation
+* MLOps
+* AI Product Engineering
+
+### Future Goals
+
+* Publish AI/ML Research Papers
+* Contribute to Research Labs
+* Build Open Source AI Tools
+* Develop Scalable AI Products
+
+---
+
+# 🏆 Achievements
+
+### 🎓 Academics
+
+* B.Tech CSE (AI & ML)
+* Current CGPA: **9.81**
+* IIT Madras Data Science Program
+
+### 💡 Technical
+
+* AI & ML Projects
+* Full Stack Applications
+* Open Source Contributions
+* Hackathon Participation
+
+### 🚀 Growth
+
+* Continuous Learning
+* Building Publicly
+* Contributing to Open Source
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Krishdshah&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishdshah&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishdshah&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Krishdshah&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+Add the following GitHub Action:
+
+https://github.com/Platane/snk
+
+Then embed:
+
+```md
+![snake gif](https://github.com/Krishdshah/Krishdshah/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+# 💻 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/thekdshah?theme=dark\&font=Karma\&ext=heatmap)](https://leetcode.com/thekdshah/)
+
+---
+
+# 📊 Kaggle
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle\&logoColor=white)](https://kaggle.com/krishdshah)
+
+---
+
+# 🌐 Portfolio
+
+### Website
+
+https://thekrishdshah.vercel.app
+
+---
+
+# 🤝 Open To
+
+* Software Engineer Internships
+* SDE Internships
+* Full Stack Development Roles
+* MERN Stack Roles
+* Machine Learning Internships
+* AI Engineer Internships
+* Research Collaborations
+* Open Source Contributions
+* Startup Opportunities
+
+---
+
+# 📫 Connect With Me
+
+### Portfolio
+
+https://thekrishdshah.vercel.app
+
+### LinkedIn
+
+https://linkedin.com/in/thekrishdshah
+
+### GitHub
+
+https://github.com/Krishdshah
+
+### LeetCode
+
+https://leetcode.com/thekdshah/
+
+### Kaggle
+
+https://kaggle.com/krishdshah
+
+### Email
+
+[thekrishdshahbhs@gmail.com](mailto:thekrishdshahbhs@gmail.com)
+
+---
+
+<div align="center">
+
+### Building software, machine learning systems, and AI-powered products.
+
+⭐ If you find my work useful, consider starring a repository.
+
+</div>
