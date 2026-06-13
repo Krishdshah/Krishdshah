@@ -51,7 +51,7 @@ I enjoy building everything from scalable web applications to intelligent AI sys
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,dart" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java" />
 </p>
 
 ---
